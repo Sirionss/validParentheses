@@ -119,7 +119,7 @@ class Solution {
 
 ## LeetCode Links
 - **Problem**: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- **Solution**: [My Submission](https://leetcode.com/problems/valid-parentheses/submissions/)
+- **Solution**: [My Submission](https://leetcode.com/problems/valid-parentheses/solutions/7155973/everyday-problem-solution-by-sirions-7c40/))
 
 ## Tags
 `Stack` `String` `Data Structure` `Bracket Matching` `LIFO` `ArrayDeque`
