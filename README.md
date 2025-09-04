@@ -111,12 +111,6 @@ class Solution {
 4. **Immediate Return Strategy**: Early exit on first invalid condition prevents unnecessary processing
 5. **Combined Condition Checking**: Stack emptiness and bracket matching verified in single expressions
 
-## Alternative Approaches
-1. **Separate If-Else Logic**: Use separate if statements for opening and closing brackets (more verbose but easier to understand)
-2. **HashMap Approach**: Use HashMap to store bracket pairs for more extensible solution
-3. **Character Array Stack**: Use primitive char array instead of ArrayDeque for maximum performance
-4. **String Replacement**: Repeatedly remove valid bracket pairs until string is empty (less efficient)
-
 ## Why Stack is Perfect for This Problem
 - **LIFO Nature**: Last opened bracket must be first to close - exactly how stack works
 - **Nested Structure**: Brackets can be nested, and stack naturally handles this hierarchy
